@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "start": 19400,
+    "pagesize": 100,
+    "total_count": 19273,
+    "searchdata": {
+        "query": "",
+        "search_descriptions": false,
+        "total_count": 19273,
+        "pagesize": 100,
+        "prefix": "searchResults",
+        "class_prefix": "market"
+    },
+    "results": []
+}
